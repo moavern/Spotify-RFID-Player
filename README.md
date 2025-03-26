@@ -1,4 +1,3 @@
-<p align="center"><img src="./recordplayerimage.png" width="800"></p>
 
 ## Modern Day Record Player
 
